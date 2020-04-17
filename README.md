@@ -1,4 +1,4 @@
-# bisokop
+# component
 
 ## Project setup
 ```
